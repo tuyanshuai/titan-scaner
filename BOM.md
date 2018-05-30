@@ -14,9 +14,11 @@ TT Motor All-Metal Gearbox - 1:90 Gear Ratio PID: 3802 $5.95	1	$5.95
 ## Raspberry Pi 3 
 Raspberry Pi 3 - Model B+ - 1.4GHz Cortex-A53 with 1GB RAM PID: 3775 	$35.00	1	$35.00
 
+## Line Laser 
+<10$
+
 ## Shipping
 $5.15
-
-== Subtotal 87.3
+ 
 
 

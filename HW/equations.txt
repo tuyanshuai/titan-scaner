@@ -1,0 +1,5 @@
+﻿"GeneralThickness"= 3
+"D2" = "GeneralThickness"
+"D1@Boss-Extrude2"="GeneralThickness"*2
+"BearBallRadio"= 136
+"D1@Sketch14"="BearBallRadio"*2
